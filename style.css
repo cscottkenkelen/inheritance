@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,100,900,700);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
+
+body {
+  font-family: "Raleway",sans-serif;
+  font-size: 32px;
+}
+h2 {
+  font-family: "Amatic SC",cursive;
+}
+h3{
+  font-family: "Amatic SC",cursive;
+}
+
+h2 {
+  font-weight: normal;
+}
